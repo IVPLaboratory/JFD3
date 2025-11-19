@@ -17,7 +17,7 @@ Infrared unmanned aerial vehicle (UAV) target images often suffer from motion bl
 
 ## Network Architecture
 <p align="center">
-  <img src="figs/JFD3.pdf" width="auto" alt="accessibility text">
+  <img src="figs/JFD3.png" width="auto" alt="accessibility text">
 </p>
 Overall architecture of the proposed JFD\textsuperscript{3}.
 
