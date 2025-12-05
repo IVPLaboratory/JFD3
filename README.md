@@ -1,7 +1,7 @@
 # JFD3
 Official code for the AAAI 2026 paper “Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection”[![arXiv](https://img.shields.io/badge/arXiv-2511.14371-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2511.14371)
 
-## Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection ##
+## Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection ## [[PDF](https://arxiv.org/pdf/2511.14371)], Supplemental Material [[PDF](https://github.com/IVPLaboratory/JFD3/blob/main/Supplementary%20Material.pdf)] 
 
 Authors: Xiaolin Wang<sup>1</sup>, Houzhang Fang<sup>1</sup>, Qingshan Li<sup>1</sup>, Lu Wang<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>
   
