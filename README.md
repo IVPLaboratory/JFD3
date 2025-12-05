@@ -24,6 +24,7 @@ Overall architecture of the proposed JFD\textsuperscript{3}.
 ## Dataset Download Link
 
 The IRBlurUAV dataset used in our paper can be downloaded via the following link:
+We have developed the IRBlurUAV dataset, which involved considerable effort. If you use this dataset in your work, please cite our contribution. Thank you!
 
 - Download Dataset Here -[Baidu Netdisk](<https://pan.baidu.com/s/170bAY4mJkAqbCf4ythljvA?pwd=xpuv>),    
                         -[Google Drive(TODO)](<>)
@@ -34,7 +35,7 @@ The IRBlurUAV dataset used in our paper can be downloaded via the following link
 
 
 ## 🔗 Citation
-If you find our work useful for your research, please consider citing our paper. Thank you!
+If you find our work and our dataset IRBlurUAV useful for your research, please consider citing our paper. Thank you!
 ```
 @inproceedings{2026AAAI_JFD3,
   title     = {Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection},
