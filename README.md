@@ -28,7 +28,7 @@ The IRBlurUAV dataset used in our paper can be downloaded via the following link
 - Download Dataset Here -[Baidu Netdisk](<https://pan.baidu.com/s/170bAY4mJkAqbCf4ythljvA?pwd=xpuv>),    
                         -[Google Drive(TODO)](<>)
 
-We have developed the IRBlurUAV dataset, which involved considerable effort. If you use this dataset in your work, please cite our contribution. Thank you!
+We developed the IRBlurUAV dataset, which involved considerable effort. If you use this dataset in your work, please cite our contribution. Thank you!
 
 
 
